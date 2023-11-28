@@ -503,7 +503,8 @@
 	// Sponsors Carousel
 	if ($('.sponsors-carousel').length) {
 		$('.sponsors-carousel').owlCarousel({
-			loop:true,
+			loop:false,
+			// loop:true,
 			margin:30,
 			nav:true,
 			smartSpeed: 500,
