@@ -377,7 +377,8 @@
 		$('.shopby-category').owlCarousel({
 			//animateOut: 'fadeOut',
     		//animateIn: 'fadeIn',
-			loop:true,
+			// loop:true,
+			loop:false,
 			margin:30,
 			nav:true,
 			//autoHeight: true,
